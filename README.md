@@ -5,9 +5,7 @@ ENGINEERING × IMAGINATION × TECHNOLOGY
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:090014,50:5B21B6,100:00F5D4&text=OLIVER%20BROWN&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20DIGITAL%20CREATOR&descAlignY=58&animation=twinkling&stroke=00F5D4" width="100%" />
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=700&color=00F5D4&center=true&vCenter=true&width=650&lines=FULL-STACK+DEVELOPER;BUILDING+DIGITAL+WORLDS;REACT+%7C+NEXT.JS+%7C+TYPESCRIPT;CREATIVITY+MEETS+ENGINEERING" />
-</p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=babayaga0x&theme=react-dark&hide_border=true&area=true" width="100%" />
 </p>
